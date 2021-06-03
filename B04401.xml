@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mortality represented, and practically improven in a sermon preached at the funerals of the pious and reverend Mr. James Fullarton late minister at St. Ninians. / By a presbyter of the Church of Scotland.</title>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04401</idno><idno type="EEBO-CITATION">51784584</idno>
+  <idno type="VID">174993</idno>
+  <idno type="EEBO-PROQUEST">2248526052</idno>
+  
+            <idno type="STC">Wing M27</idno>
+            <idno type="STC">ESTC R180217</idno>
+            <idno type="OCLC">51784584</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174993)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2708:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mortality represented, and practically improven in a sermon preached at the funerals of the pious and reverend Mr. James Fullarton late minister at St. Ninians. / By a presbyter of the Church of Scotland.</title>
+               </titleStmt>
+               <extent>[12], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed on p. 8: G.M.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fullarton, James, d. 1687 --  Death and burial --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Isaiah. --  XL, 6 --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Death --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174993:1"/>
+            <pb facs="tcp:174993:1"/>
+            <pb facs="tcp:174993:2"/>
+            <pb facs="tcp:174993:2"/>
+            <p>
+               <hi>Mortality Represented,</hi> And Practically Improven in A SERMON Preached at the Funerals of the Pious and Reverend Mr. <hi>JAMES FƲLLARTON</hi> Late Minister at St. <hi>NINIANS.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y a Presbyter of the Church of <hi>SCOTLAND.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or what is your life? It is even a vapour that appeareth for a little time, and then vanisheth away, <bibl>
+                     <hi>Jam. 4.14.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he righteous shall be in everlasting remem<g ref="char:EOLhyphen"/>brance, <bibl>
+                     <hi>Psal. 112.6.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>EDINBƲRGH,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred MAJESTY, CITY and COLLEDGE, <hi>Anno Dom.</hi> 1687.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174993:3"/>
+            <pb facs="tcp:174993:3"/>
+            <head>TO THE Right Honourable ANNA Countess of <hi>ARGILE,</hi> &amp;c.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>YOUR long and great Experience of the pleasures and sweetness's of Religion, hath made it so dear and precious to you, that whate<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er you conceive can have any Tendencies to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Advancement and Propagation of it in a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>egenerat World, you are inclined highly to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>alue. It was your Charitable Apprehension <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at the following Performance, in the Cir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mstances wherewith it was attended, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reason of the Account it gives, might have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me influence this way, at lest among those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hom it did more particularly concern, that
+<pb facs="tcp:174993:4"/> prompted you to plead for the Publication of it. The Piety and goodness of the motion of being serviceable to the World, I did ex<g ref="char:EOLhyphen"/>ceedingly relish; but I was so sensible of the defectiveness, and unaccuracy of my Medita<g ref="char:EOLhyphen"/>tions, that I could not think of allowing them to face the Publick without a Blush. The Circumstances in which I was, when obliged to have these Reflections, and my frequent interruptions since (with which your Lady<g ref="char:EOLhyphen"/>ship was not altogether unacquainted) will, I know, be a sufficient Apology to you, for all the imperfections that will appear in them, especially when this consideration is added that great and elaborat performances, can<g ref="char:EOLhyphen"/>not be justly expected from one of so little experience, and so mean capacity, as, with<g ref="char:EOLhyphen"/>out any great Self-denyal, I must acknow<g ref="char:EOLhyphen"/>ledge my self to be: And if this will no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> procure the favourable Constructions of o<g ref="char:EOLunhyphen"/>thers, I shall give them leave, if they thin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it worth their while to pass Censures. How<g ref="char:EOLunhyphen"/>ever, if what I have done be of any efficacy to beget a pious Inclination, or a good Re<g ref="char:EOLunhyphen"/>solution in the Hearts of any that shall giv<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> themselves the trouble of a Perusal, yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have got the design you aimed at, and shall think my self very sufficiently rewarde<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:174993:4"/> though more of my time and pains had been expended.</p>
+            <p>The worthy Person, of whose Funeral So<g ref="char:EOLhyphen"/>lemnities, the ensuing Discourse, made a<g ref="char:EOLhyphen"/>part, you was used to admit into great and (while he was alive, he would himself mo<g ref="char:EOLhyphen"/>destly add) very undeserved degrees of your Favour and Esteem: And indeed, your Respects to him have not died with him: You was deeply sensible, how sad a Presage, and how great a Disadvantage, the removeal of a gracious and useful Soul out of the World is; and therefore you heartily wished, and chearfully contribut<g ref="char:EOLhyphen"/>ed your loving Endeavours, that his Life should be lengthned; but when that could not be, you was content to take occasi<g ref="char:EOLhyphen"/>on to put Respects upon his Memory; and therefore you often times testified, with a deal of pious Affection and Concern, how well he deserved to be had <hi>in everlasting remembrance;</hi> And the sense you had of his singular subserviency, for advancing the great design of Religion, did draw that kind Expression from you, when he was in his Grave, that now <hi>a great Light was laid in Darkness.</hi>
+            </p>
+            <p>How tenderly you endeavoured to wipe
+<pb facs="tcp:174993:5"/> off the Tears from the Eyes of his mourn<g ref="char:EOLhyphen"/>ful Relations, by the influences of your Cha<g ref="char:EOLhyphen"/>rities, it would, I know, be an incroach<g ref="char:EOLhyphen"/>ment on your Modesty, to make a pub<g ref="char:EOLhyphen"/>lick declaration of it, though it were but a doing Justice to the World, to set so lau<g ref="char:EOLhyphen"/>dable and imitable a Pattern of Goodness be<g ref="char:EOLhyphen"/>fore it. You have been long and well Train<g ref="char:EOLhyphen"/>ed up in the School of Afflictions: Your continued experience of a distressed State, hath acquainted you with the Temptati<g ref="char:EOLhyphen"/>ons and necessities that attend it, and makes you to melt and dissolve in Mercies and Compassions, towards all whom you see in it, and hath furnished you with a Maga<g ref="char:EOLhyphen"/>zine of suitable Consolations, and Directi<g ref="char:EOLhyphen"/>ons to Relieve under it; out of this pro<g ref="char:EOLhyphen"/>ceeded that excellent Sentence, wherewith you did alleviat and ease the Griefs of your deceased Friends, disconsolat Relict, which was to this purpose, that <hi>we should not fol<g ref="char:EOLhyphen"/>low our dead Relations to the Grave, for this will nourish and foment our Sorrows, But to Heaven, where they are made perfect and hap<g ref="char:EOLhyphen"/>py;</hi> and this can not choose but silence our immoderat Regrates for them.</p>
+            <p>
+               <hi>Madam,</hi> The reason why I prefix your Name to these Papers, is not to honour you,
+<pb facs="tcp:174993:5"/> but to adorn them. The pious design that was proposed in the Publication of them, can not be attained, you know, if they be not Read; and to oblige to do this, it will be inducement great enough to see your worthy Name in the entry: For all that know you, will reasonably conclude, that certainly some excellent thing must needs follow so Noble and Glorious an Introduction. 'Tis true, I am sensible they meet with a signal disap<g ref="char:EOLhyphen"/>pointment. However, I think the time that is spent in perusing these few Leaves, may haply be worse imployed.</p>
+            <p>I shall not trouble you any further, on<g ref="char:EOLhyphen"/>ly suffer me heartily to wish, that, for the benefit of the World, which stands greatly indebted to your large and universal Chari<g ref="char:EOLhyphen"/>ty, for the interest of Religion, to which much Honour, and many Advantages re<g ref="char:EOLhyphen"/>dound from your Christian and Examplary Conversation, for the sake of the Ministry, which, wherever you are, you signally en<g ref="char:EOLhyphen"/>courage and respect, and for the comfort and satisfaction of your Relations, who can not enough value the happiness they have, in be<g ref="char:EOLhyphen"/>ing interressed in your dayly and fervent Prayers, your Life may be long and prospe<g ref="char:EOLhyphen"/>rous, your Consolations aboundant, your
+<pb facs="tcp:174993:6"/> Piety persevere and flourish, and bring forth Fruit in your old age. So prays,</p>
+            <closer>
+               <salute>Madam</salute>
+               <signed>
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our Ho. most humble Servant, and most affectionat Remem<g ref="char:EOLhyphen"/>brancer at the Throne of Grace, G. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174993:6"/>
+            <head>TO THE PAROCHIONERS OF S<seg rend="sup">t</seg>. NINIANS.</head>
+            <opener>
+               <salute>Honoured and well beloved.</salute>
+            </opener>
+            <p>THE great design, I may confidently as<g ref="char:EOLhyphen"/>sure you, that was aimed at in the publication of this Sermon, was the advancement of the interest of Souls, and of yours especially, in whose hearing it was delivered, and whom the occasion of it did more particularly respect, it being Preached at the In<g ref="char:EOLhyphen"/>terment of your Spiritual Shepherd, whom all of you, I suppose, did dearly value, and were greatly sensible of the advantages you had in be<g ref="char:EOLhyphen"/>ing under his well-managed and faithfully dis<g ref="char:EOLhyphen"/>charged Ministry. And that he had a consi<g ref="char:EOLhyphen"/>derable interest in your affections, many of you did evidence by your loving tears, when you heard and reflected on the loss which you sustain<g ref="char:EOLhyphen"/>ed, in being deprived of so laborious and faith<g ref="char:EOLhyphen"/>ful an Overseer. I doubt not but his memory will be fragrant and savoury amongst all the sin<g ref="char:EOLhyphen"/>cere
+<pb facs="tcp:174993:7"/> and ingenuous Proselyts of Religion; An<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therefore to such of you it will, I hope, be nei<g ref="char:EOLhyphen"/>ther unpleasant nor unedifying, to peruse th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> following Pages, wherein you have, amongst o<g ref="char:EOLhyphen"/>ther things, a true, though imperfect and rud<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Idea and Character of him. The Image of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deceased Friend, when we look on it, will reco<g ref="char:EOLhyphen"/>ver the affectionat resentments we had for him while he was alive; and gives us occasion to dis<g ref="char:EOLunhyphen"/>course of, and inculcat on our practices, what was imitable and worthy in him. Here you have the Image of him that lately laboured amongst you in the Word and Doctrine, not the Image of his Face, but that of his Mind, his better part<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> And when-ever you take a view of it, it canno<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> choise, but revive and strengthen these Impres<g ref="char:EOLhyphen"/>sions, which his travels among you did make on your Spirits. And now the greatest honour you can do his Memory, is to keep in mind an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> practise these excellent things he delivere<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> unto you, and pressed upon you, and to <hi>b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> followers of him, as he was of Christ</hi> which if ye do, I am perswaded that your God wil<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not accuse you of impiety, nor your Soveraig<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of disloyalty, nor your Neighbours of injustice nor your selves of insobriety. I know he Preach<g ref="char:EOLunhyphen"/>ed among you the great essentials of Religion, an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sincerely endeavoured to examplifie in his ow<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:174993:7"/> conversation what he exhorted you unto; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hereby he became <hi>an example of the Believers,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s it is, <hi>1 Tim. 4.12. in Word, in Conversa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion, in Charity, in Spirit, in Faith, in Pu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ity.</hi> I shall say no more, but only tell you, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f you comply with the design of what is here of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ered unto you, God will be honoured, your Souls <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dified, and a great satisfaction will redound to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>im, who glories to be</p>
+            <closer>
+               <signed>A sincere well-wisher to the Souls of Men,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:174993:8"/>
+            <pb n="1" facs="tcp:174993:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ISAIAH XL. VI.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he voice said, Cry, and he said, What shall I cry? All flesh is grass.</p>
+               </q>
+            </epigraph>
+            <p>THE Responses that were given by the <hi>Heathen Oracles,</hi> were mostly De<g ref="char:EOLhyphen"/>ceits and Fallacies: The Terms in which they were delivered, were <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ither abstruse, or equivocal, and so became <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bsolutely useless to the Consulters. The darkness in which these Oracular returns was wrapt up, made them unintelligible; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f a greater light at any time appeared in them, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t was meerly a pretence and a falshood, a de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>usive Ambiguity, which left the minds of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en dubious and in suspense, and filled them with infinite uncertainties.</p>
+            <p>But the Oracle that bespeaks us in the Text, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s infallible; it's Responses are no Illusions; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t's the Voice of God; Nothing can issue from essential Truth, but what is eternally true: Here are no dark and perplexing Riddles, or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mposing Ambiguities, all is plain and easie, and accessible to the meanest capacity, <hi>All flesh is grass.</hi> This is a Text the <hi>Divine Provi<g ref="char:EOLhyphen"/>dence</hi>
+               <pb n="2" facs="tcp:174993:9"/> hath been Commenting on since the b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ginning of the World until now: it asserts truth, that hath been made good by innum<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rable instances: Not a day passes over, wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>out giving it many thousand confirmations and yet, 'tis strange, there is nothing we ap<g ref="char:EOLunhyphen"/>pear to be more under the practical disbeli<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of, or allow our minds to dwell less upo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> than this. Men, one would think, seem<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fancy, that they are constitute of Incorrup<g ref="char:EOLunhyphen"/>tibles, that they are framed of such Material as have no tendency to a dissolution. This the only tolerable account that can be give<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of that amazing insensibleness of Mortality and forgetfulness of their latter end, which i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Epidemick Disease, or, if you will, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wretched stupidity of Mankind.</p>
+            <p>The blessed God, that he might reclai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Men unto a just sense of their dying estate, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> teach them to know <hi>how frail they are,</hi> and o<g ref="char:EOLunhyphen"/>blidge them to a holy and religious numbering of their days, he utters his voice. When E<g ref="char:EOLunhyphen"/>ternal Truth crys, 'tis but reasonable to hope that its voice should be noticed, that mer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> should give credit to what it says, and be in<g ref="char:EOLunhyphen"/>fluenced by it, unto a dutiful and serious con<g ref="char:EOLhyphen"/>fideration of what-ever it recommends. 'Ti<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not easie to rouse up and excite the drowsie
+<pb n="3" facs="tcp:174993:9"/> attentions of men; And therefore God is oft<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>imes at the pains to double his voice: To the voice of his Word he adds that of his Provi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ence. And thus it is with us to day; God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>peaks not only to our ears, but to our eyes, and cryes, and inculcats upon us, that <hi>All flesh is grass.</hi> And now is it possible, that any <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mongst us should be so stupified, as to sleep over these rousing methods the Divine Wis<g ref="char:EOLhyphen"/>dom contrives for our recovery unto a just and affecting apprehension of our Mortality? Shall we indulge our selves in a supine and care<g ref="char:EOLhyphen"/>less inconsideracy, when the Holy God by the united cryes of his Word and Providence, as by an Heavenly Trumpet, loudly sounds in our Ears this little regarded Truth, <hi>All flesh is grass:</hi> But I shall adventure to approach this Oracle more closely, and open up its mind at a greater length, and then shall endeavour to read out unto you that mournful Commentary the Divine Providence hath afforded us on the Text.</p>
+            <p>In the words we may notice, 1. A Com<g ref="char:EOLhyphen"/>mission given; <hi>The voice said, Cry.</hi> 2. A Con<g ref="char:EOLhyphen"/>sultation made; And he said, <hi>What shall I cry?</hi> 3. An Answer returned; <hi>All flesh is grass.</hi> The former two I shall but briefly glance at, because it is the third, as being most suitable to my
+<pb n="4" facs="tcp:174993:10"/> design, that I intend more largely to insis<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon.</p>
+            <p>
+               <hi>First,</hi> A Commission given: <hi>The voice said Cry.</hi> By the voice which here speaks, we mus<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> understand God manifesting and discovering his Will to the Prophet, by way of Vision Dream, or immediat and secret Inspiration, and impowering him to deliver the following Response unto the People. Time was, that the Divine Law was Written legibly and in distinct Characters on our Hearts; but since the entrance of sin, that Lamp of Heavenly Light, God had set up in our Understand<g ref="char:EOLhyphen"/>ings, is greatly darkned; and were we left meerly to the conduct of it in our enquiries af<g ref="char:EOLhyphen"/>ter Happiness, 'tis not possible but we would be miserably bewildered in our way. It was necessary therefore, that there should be new discoveries of the Divine Will made to us, in order to direct our steps in the everlasting ways which leads to Blessedness. Now we are not, while inclosed within Walls of corrup<g ref="char:EOLhyphen"/>tible flesh, capable of immediat Converses with the Deity, we could not <hi>see his face and live:</hi> The overcoming Radiancy of that Light with which he is surrounded, would not so much enlighten, as dazle and confound us. In pi<g ref="char:EOLhyphen"/>ty therefore and condescendency to our weak<g ref="char:EOLhyphen"/>ness,
+<pb n="5" facs="tcp:174993:10"/> the Holy God hath in his great Good<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ess and manifold Wisdom, contrived methods <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f discovering His Will unto us, which are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uited and accommodated to our present ca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>acities: He gave his Holy Spirit to men <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ike our selves, and enabled them to deliver <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is Mind unto us, in our own Dialect: Such were the Prophets of old. And when He was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o make the fullest and clearest Manifestation of His Will unto the Children of men, for their Direction in the way to Life and Immorta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity, He was content that His Eternal Son should Espouse our Nature, that in Him, and from Him, who was <hi>the brightness of the Fathers glo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y, and the express image of his person,</hi> we might <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>earn what He would have us both to believe <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd do. The <hi>Messiah,</hi> say the <hi>Rabbins,</hi> is <hi>Fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ies Dei,</hi> the Face of God: To this purpose <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s that phrase of the Apostle, 2 <hi>Cor.</hi> 4.6. <hi>The <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lory of God in the face of Christ Jesus:</hi> The Divine Perfections appear in Him, as Beauty doth in the Face: The Invisible One may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere be seen, and the Inaccessible Majesty ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>roached unto. <hi>Infinity,</hi> that it might suit it Self to our Model, comes to us <hi>Nube Carnis,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n a Cloud of Flesh, that His Glory might not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wallow us up. By Him that Divine Voice, which we were not able to hear immediatly,
+<pb n="6" facs="tcp:174993:11"/> did speak unto us, and acquainted us with t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Mysteries of Salvation. And when the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly Jesus was taken up unto the Heavenly M<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sions, from the Fellowship and Converse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Men, the Voice of God called upon other<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>raulds to deliver His Message unto the Wor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> namely the Apostles, who, though extraor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>narly qualified, yet were men like our selv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and after their departure, the ordinary<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>stors of the Church. So that until Mort<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have put on Immortality, and are made<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pable of Conversing with the unvailed Dei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> until they <hi>see God face to face, and know even<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they are known;</hi> We need not question b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> there will be a continuation of a Sacred sta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on of Men, for carrying the Divine Embas<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> unto the World.</p>
+            <p>
+               <hi>Secondly,</hi> The Consultation which the P<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>phet makes with the Heavenly Oracle we ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the following Words. <hi>And he said, w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> shall I Cry?</hi> Here we have a practice exe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>plified, which well deserves the Notice a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Imitation, of such as are called to be A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bassadors for Heaven, they must be sure<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Consult their Master's Will, in delivering<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Messages. It will be a horrid Impiety to p<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fix a <hi>Thus saith the Lord,</hi> to the products<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Fancy, or Interest, or Passion. 'Twas t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="7" facs="tcp:174993:11"/> hallowing the Inventions of depraved Minds, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y bold pretences to Divine Authority, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ath abused Mankind, and opened a Door to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat vast Deluge of Imposture, Error and De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>usion, that hath almost choak'd the World, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd confined pure and incorrupted Truth to a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery narrow compass. When therefore the Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>enly Voice commissions us to <hi>Cry,</hi> it will be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fe and proper for us with the Prophet, calm<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to deliberat and say, <hi>What shall I Cry?</hi> We <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ust look about us, and consider that we <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent not to the World, under the notion of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ivine Messages, what bears not on it the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>amp and Approbation of our great Sove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ign. 'Tis true, we are not to think that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e shall be informed of what we are to say, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y Visions or Dreams; we must not expect to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e acted by <hi>Enthusiasms,</hi> and immediat Im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ulses, as were the Prophets and Apostles of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d: However, we have the Dictats of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me infallible Spirit, that guided and direct<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them, plainly and copiously Recorded in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Holy Scripture; to these we must make <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r recourse; with these we must seriously <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onsult, and from them we must take the Mes<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ges, which the necessities of times and places <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill oblige us to deliver to the World. Ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng thus passingly touched these Particu<g ref="char:EOLhyphen"/>lars,
+<pb n="8" facs="tcp:174993:12"/> I hasten to my main Design, which is<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> To consider the Return that is<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven by the Divine Oracle to the Consulte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> we have it in these words, <hi>All flesh is grass.</hi> T<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is that the present occasion will oblige<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to pursue at greater length.</p>
+            <p>
+               <hi>Grass</hi> is a Resemblance, which the H<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Ghost in Scripture makes frequent use of,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> set forth Man by, as he is a Mortal dying c<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ruptible thing: And the aptness and sign<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cancy of it will appear, if we consider so<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> particulars, wherein there is an observable<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>greement betwixt the <hi>Grass</hi> and <hi>Man,</hi> the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>claration whereof will afford us many edi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing and instructive Meditations; <hi>I</hi> shall n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tice but these.</p>
+            <p>
+               <hi>First,</hi> Man is as the Grass in his <hi>Origin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Our Eyes will inform us at every return of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Spring, whence the Grass is derived; th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> same Creative Energy, which the Almigh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> did put forth in the first Formation of Thir<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is still continued; This is the <hi>Spiritus intu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lens,</hi> and the <hi>Anima mundi,</hi> the Soul of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Universe, concerning which the Heathen P<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>losophers and Poets delivered many things,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> could not give the true and genuine accou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of it: To this, Nature doth in every instan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> conform, as at the beginning, as then, so no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="9" facs="tcp:174993:12"/>
+               <hi>The earth doth bring forth grass, Gen.</hi> 1.11. and as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e <hi>grass</hi> so the corporeal &amp; visible part of man <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with respect to which alone it is that the simi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tude holds good) is originally Earth; <hi>And the Lord God formed man out of the dust of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>round, Gen.</hi> 2.7. The Earth then is a common Parent to the <hi>Grass</hi> and <hi>Man;</hi> The skilful hand <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f the Omnipotent Creator framed them both <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut of the same Womb. 'Tis true, the Body of Man is the much more curious and elegant Composure. The admirable Contexture &amp; wise Order of these Particles of Dust, which make up this excellent Fabrick, is a full Confu<g ref="char:EOLhyphen"/>tation of the <hi>Epicurean</hi> account of the primi<g ref="char:EOLhyphen"/>tive Origination of Mankind; <hi>viz.</hi> that the Earth did in process of time, of it self, with<g ref="char:EOLhyphen"/>out any designing over-ruling mind, bring forth Man by chance. This is so wild and extravagant a dotage, that to be capable to believe it, is one of the greatest Reproaches of humane Nature; And when it obtained in the World, it was a sad evidence that (as the Apostle hath it, <hi>Rom.</hi> 1.21.) <hi>Men be<g ref="char:EOLhyphen"/>came vain in their imaginations, and their foo<g ref="char:EOLhyphen"/>lish heart was darkened.</hi> A Ray of the Infi<g ref="char:EOLhyphen"/>nite Wisdom shines in every part of Mans Bo<g ref="char:EOLhyphen"/>dy; there is nothing in it but what proclaims, that it is the product of a Divine and intelli<g ref="char:EOLhyphen"/>gent
+<pb n="10" facs="tcp:174993:13"/> Contriver. And indeed it is but rea<g ref="char:EOLhyphen"/>sonable, that there should be some peculiar and great excellencies in that Structure, which was designed to lodge for a while, so noble and Heavenly an Inhabitant as the Soul is. However, the Materials of this Compo<g ref="char:EOLhyphen"/>sure, whatever the elegancy of it is, are mean and contemptible: We are not of an higher extract, in this respect, than the <hi>Grass</hi> is, on which we dayly tread. The most beautiful and best proportioned Body that is, was once a piece of rude and indigested Earth, and will ere long be such again.</p>
+            <p>
+               <hi>Secondly,</hi> Man is as the <hi>Grass,</hi> in regard of frailty and weakness. A little pull will snap the <hi>Grass</hi> asunder; Even so, how easily is the tender Threed of Man's Life broken! with how small a force, and in how short a time may the curious Fabrick of Mans Body, which not a little pains, nor a few years did raise up, be overthrown! The Life of Man is but a Spark, a Breath, a Smoak, a Spark in the Heart, which is soon put out, a Breath in the Mouth, which many little accidents may quickly stop; a Smoak in the Nostrils, which is easily driven away. Man, if we consider him only, with regard to his corruptible part, is little other than a shew, a meer sha<g ref="char:EOLhyphen"/>dow,
+<pb n="11" facs="tcp:174993:13"/> a semblance of beeing: There is an ap<g ref="char:EOLhyphen"/>pearance of somewhat, but search a little, and enquire into it, and it vanishes into nothing, is found a lie, a piece of Falshood, as if he did but feign a Being, and were not. The consideration of this, we may think, gave Wing to that hasty Expostulation the <hi>Psal<g ref="char:EOLhyphen"/>mist</hi> makes with God, <hi>Psal.</hi> 89.47. <hi>Where<g ref="char:EOLhyphen"/>fore hast thou made all men in vain?</hi> The passion he was in upon the view of his own, and the common case of Mankind, how fast all were hastning out of Life, and laying down the Being which they rather seemed to have assumed and borrowed, than to pos<g ref="char:EOLhyphen"/>sess and own; I find emphatically enough represented by a very pious and judicious Author, to this purpose, Lord, why hast thou made Man such a fictitious thing, given him such a mock-beeing? Why hast thou brought forth into the Light of this World, such a sort of Creatures, that rather seem to be than are, that have so little of solid and substanti<g ref="char:EOLhyphen"/>al Beeing, and so little deserve to be taken for Realities; that serve to cheat one another unto an opinion of their true Existence, and presently vanish, and confess their falshood? What, hovering shadows, what uncertain entities are they? In a moment they are,
+<pb n="12" facs="tcp:174993:14"/> and are not. I know not when to say, I have seen a Man. It seems as if there were some such things before mine Eyes; I per<g ref="char:EOLhyphen"/>swade my self that I see them walk to and fro, that I talk and converse with them, but instantly my Sense is ready to give it self the lie, they are on a sudden dwindled away, and force me almost to acknowledge a Delu<g ref="char:EOLhyphen"/>sion: I am mocked with a shew, and what seemed a reality, proves an imposture; they only personat what they are thought to be, and quickly put off their very selves as a dis<g ref="char:EOLhyphen"/>guise. This is agreeable to the Language of the Scripture elsewhere; <hi>Surely men of low degree are vanity, and men of high degree are a lie, Ps.</hi> 62.9.</p>
+            <p>The account which the Holy Ghost gives of all the Nations of men, is that <hi>they are less than nothing and vanity, Is.</hi> 40.17. If so, What a scarcity, what a penury of Beeing must we suppose in each individual, especially if we look upon the outer part, or rather the sha<g ref="char:EOLhyphen"/>dow or umbrage of Man. Now the less of Being any thing hath, the more frail it is; for that thing is said to be frail, whose Be<g ref="char:EOLhyphen"/>ing can be easily taken away from it; Now the smaller the degree of the Being of any thing is, the more easie can it be taken away.
+<pb n="13" facs="tcp:174993:14"/> What thing in this lower World can you fix upon, that in this respect is frailer than Man? How little a portion of Being hath his mor<g ref="char:EOLhyphen"/>tal part in it! We may without incongrui<g ref="char:EOLhyphen"/>ty compare him to the most Fugitive and mo<g ref="char:EOLhyphen"/>mentany Creatures: He is a Worm which a little force can crush; an heap of Dust, which a small blast of Wind can blow asun<g ref="char:EOLhyphen"/>der; a tottering, though curious Fabrick, which a ruder touch can level with the ground. He is a Flower, soon withering; a Vapour, soon vanishing; a Cloud of Smoak, quickly disappearing. From all which it ap<g ref="char:EOLhyphen"/>pears, that the <hi>Grass</hi> is not an unsuitable Embleme of Man, in regard of his frailty. But</p>
+            <p>
+               <hi>Thirdly,</hi> Man is as the <hi>Grass,</hi> in regard of tendencies to decay; <hi>The grass withereth, the flower fadeth, Isai.</hi> 40.7. The <hi>Grass</hi> will by little and little lose it's lovely verdure, and the Flower it's pleasing comeliness; so our cor<g ref="char:EOLhyphen"/>ruptible part doth discover dayly tendencies to Corruption; Our outward Man is pe<g ref="char:EOLhyphen"/>rishing; the pins of our Earthly Tabernacles are lousning by degrees. The Rosy Cheeks of Youth will gradually contract the Wrin<g ref="char:EOLhyphen"/>kles of old age; and the strength of Man<g ref="char:EOLhyphen"/>hood will decline unto weakness. The clear
+<pb n="14" facs="tcp:174993:15"/> and sparkling Eye is insensibly gathering a Cloud of dimness; and the nimble and swift Limbs becoming stiff. The visible and ma<g ref="char:EOLhyphen"/>terial part of man hath nothing steady and consistent in it; 'tis fluid and unstable; there is a continual defluence of its parts; 'tis hast<g ref="char:EOLhyphen"/>ning to its Original, the Dust: All its mo<g ref="char:EOLhyphen"/>tions are but so many steps towards the Grave. The consideration of this made St. <hi>Aug.</hi> say,<note n="*" place="margin">Confes. Lib. <hi>1.</hi>
+               </note>
+               <hi>Se nescire utrum vita haec nostra appellanda potius sit, vi<g ref="char:EOLhyphen"/>ta mortalis quam mors vitalis;</hi> That he knew not which was the properest Ap<g ref="char:EOLhyphen"/>pellation, to call this Life of ours a dying Life, or a Living Death. And<note n="*" place="margin">Contra Marci. Lib. <hi>4.</hi> c. <hi>21.</hi>
+               </note>
+               <hi>Tertullian</hi> prettilie observes, That our swadling Cloaths are Emblemes, and Prognosticks of our Winding-sheets: <hi>Initium vi<g ref="char:EOLhyphen"/>tae fini correspondet.</hi> The begin<g ref="char:EOLhyphen"/>ning of our Life is agreeable to the end of it. As soon as we begin to Live, we begin to die. The Clayie Structures of our Bodies are mouldering away by piece-meal, though we do not notice it. This is a decay common to all Mankind, a Consumption, that every one of us is sick of; that is, our Mortal part is gradually wearing, and we may observe
+<pb n="15" facs="tcp:174993:15"/> in our selves every day palpable tendencies to a final dissolution. The ruins and breaches that appear, and increase in our Earthly House, will issue in the total downfal of it; and this leads me to the</p>
+            <p>
+               <hi>Fourth</hi> Instance, and 'tis the last I shall mention. Man is as the Grass in his end and period. Grass and Flowers in the morning appear with a pleasant gayetie; they look <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ike health and beauty, when besprinkled with the early Dew, and quickened with the first Beams of the rising Sun; But in the E<g ref="char:EOLhyphen"/>vening they become sick, and hang down their heads, and at Night they die. This is a lively Hieroglyphick of Man: <hi>For he,</hi> as <hi>Job</hi> tells us, <hi>Ch.</hi> 14. <hi>ver.</hi> 2. <hi>cometh forth as a flower, and is cut down.</hi> Man in the begin<g ref="char:EOLhyphen"/>ning of his day, hath a delightful grace and loveliness in his aspect; he appears in his fresh and verdent Flowrishes, and disco<g ref="char:EOLhyphen"/>vers nothing but life and vigour, whiles his Youthly Blood nimbly glides alongst his Veins: But when once the heat and glo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y of his Meridian is over, he sensibly de<g ref="char:EOLhyphen"/>clines from his strength and beauty; and to<g ref="char:EOLhyphen"/>wards the evening of his day, his Spirits flag and languish, and the shadows of Death be<g ref="char:EOLhyphen"/>gin to spread themselves; and in end the night
+<pb n="16" facs="tcp:174993:16"/> comes on, and Man (as the same <hi>Job</hi> hath it, <hi>ver.</hi> 10.) <hi>Dyeth and wasteth away; yea he gi<g ref="char:EOLhyphen"/>veth up the ghost; and where is he?</hi> This is the common fate of Mankind, <hi>'Tis the way of all flesh,</hi> an irreversible statute, which Hea<g ref="char:EOLhyphen"/>ven hath made since the entrance of sin. <hi>I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is appointed unto all men once to die:</hi> It is the Municipal Law of the Earth to die once, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Heaven to live for ever, and of Hell to die for ever. There is no exemption from Death, nor Redemption from the Grave: <hi>What man is he that liveth and shall not see death? shal<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> he deliver his Soul from the hand of the grave? Ps.</hi> 89.48. Death will be the most universal Conquerour, he will carry away all the Chil<g ref="char:EOLhyphen"/>dren of Men as so many Captives, and shut them up within the dark Prison of the Grave; For, as it is, 2 <hi>Sam.</hi> 14.14. <hi>We must needs die, and be as water spilt on the ground, which cannot be gathered up again. We must go down into the house of all living, and sleep in the dust,</hi> where, for a Pillow, we shall have a cold Turff, and the Creeping things will be our Companions; which, though we could not endure, they should approach us while we were alive, yet now we must feed with the best of our substance, and lodge them in the hollow Chambers of our Eyes. We
+<pb n="17" facs="tcp:174993:16"/> may (and it is our duty by all lawful and prudent means to) endeavour to under<g ref="char:EOLhyphen"/>prop these Tabernacles of ours, and procure their standing as long as we can; but all the supports we are able to administer, will not secure them against the violence of the last fatal Storm, which will certainly crush them into the confusion of a ruinous heap. Death is a most impartial executor of the Decree of Heaven against fallen Mankind; he respects not the persons of any: <hi>Aequo pede pulsat pauperum tabernas, regumque turres:</hi> The Crowned head will not escape the dint of his blows, no more than the poorest Begger: Honour and greatness will not keep him at a distance: he will not be obliged by Presents, nor beat back by Force and Power: He will not reverence the Gray<g ref="char:EOLhyphen"/>hairs of the aged, nor spare the early and tender Blooms of Infancy. No Motives, no endeavours will perswade him to leave the field, until he hath got the victory over all the Children of Men, and made them take up their Residences within his dark Domini<g ref="char:EOLhyphen"/>ons. And thus I have endeavoured to give you some account of the Import and Signifi<g ref="char:EOLhyphen"/>cancy of that Resemblance, which the Hea<g ref="char:EOLhyphen"/>venly Voice commands to be Proclaimed in
+<pb n="18" facs="tcp:174993:17"/> the Ears of Men, that in it, as in a just Mir<g ref="char:EOLhyphen"/>rour, they might take a view of themselves, and learn the meanness of their Pedegree, and the frailties of their Nature, their dayly de<g ref="char:EOLhyphen"/>cays, and latter end.</p>
+            <p>And now 'tis time that I proceed to the Application of the truths I have been hitherto declaring. But here my larger pains is pre<g ref="char:EOLhyphen"/>vented; the Divine Providence hath effe<g ref="char:EOLhyphen"/>ctually Preached that already; which should have made up this part of my Discourse. This is the mournful Commentar I promised to read out to you. Here things I have been discoursing of are practically applyed be<g ref="char:EOLhyphen"/>fore your eyes. Behold, the Doctrine of Mortality exemplified in an unwished-for, and justly regrated instance, the removal of your most faithful and most affectionat Pa<g ref="char:EOLhyphen"/>stor.</p>
+            <p>I question not but all who have a true sense of Piety and Virtue, who have any measure of concern for the interests of Re<g ref="char:EOLhyphen"/>ligion and Christianity will dearly resent the greatness, and (with a humble submissi<g ref="char:EOLhyphen"/>on to the over-ruling wisdom) the unseaso<g ref="char:EOLhyphen"/>nableness of the loss of him, who was a very worthy and imitable Pattern in the one, and a signal instrument in advancing the other.</p>
+            <pb n="19" facs="tcp:174993:17"/>
+            <p>I need not think, neither do I intend to add to the greatness of his Character by Pa<g ref="char:EOLhyphen"/>negyricks: His own Converse, and Carriage, and Ministerial appearances have made that great enough already in the minds of all that knew him. How-ever, since (as the Wise Man tells us, <hi>Prov.</hi> 10.7.) <hi>The memo<g ref="char:EOLhyphen"/>ry of the just is blessed,</hi> it will, I suppose, be no unacceptable intertainment to all that loved him, (as I am inclined to think all his Acquaintances did) to hear some instances of his worth displayed before them. This will be as the breaking of a Box of precious Oynt<g ref="char:EOLhyphen"/>ment, which will diffuse such a fragrancy, as will at once both endear his Memory, and oblige the sincere Votaries of Religion, to Write after that Copy of Piety and Goodness, which his unblameable Conversation did set before them. And though my affection to him was great, and my interest in him con<g ref="char:EOLhyphen"/>siderable, yet I shall not divert unto airy and ungrounded Topicks, and erect, or rather blow up a Monument of false praises unto his Memory. My design is not to intertain you with Bombast and Rhetorick: I purpose not so much to commend, as to recommend him to your Christian imitation. And I am glad that I shall say nothing, but what I am well
+<pb n="20" facs="tcp:174993:18"/> assured all his Acquaintances will give thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> joynt and hearty Suffrages unto.</p>
+            <p>Let us then take a glance of him, (1.) I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Accomplishments, both Natural and Gra<g ref="char:EOLunhyphen"/>cious. 2. In his Diligence, Fidelity, Pru<g ref="char:EOLunhyphen"/>dence, Accuracy, Zeal, and loving Design for those of his Congregation, in the Discharg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Sacred Function.</p>
+            <p>
+               <hi>First,</hi> His accomplishments. Nature wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> no Step-mother unto him: She gave him<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> liberal allowance of her most desirable an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> lovely Ornaments. If a clear and perceptiv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Mind, a large and comprehensive Soul,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deep and solid Judgment, a sagacious an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ready Wit, and all these greatly improve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and cultivated by the advantages of polit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and substantial Learning, may be reckone<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> amongst the number of Natural Endow<g ref="char:EOLhyphen"/>ments; all that had any intimacy with him could not but discover them in him in a very eminent degree. But it is not this I inten<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to descant upon: 'Tis what was imitable i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him, that Incline mostly to notice. Com<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> we then to the consideration of his</p>
+            <p>
+               <hi>Gracious</hi> accomplishments, these which discovered him to be <hi>a partaker of the Divin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Nature,</hi> and <hi>that Christ was formed in him</hi> Of this I shall give but the following instan<g ref="char:EOLunhyphen"/>ces,
+<pb n="21" facs="tcp:174993:18"/> which all that had any longer converse with him could not but have occasion oft<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>imes to discern.</p>
+            <p>
+               <hi>First,</hi> He had a very lovely mixture of <hi>Seriousness</hi> and <hi>Cheerfulness, Serious</hi> and <hi>Cheer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ul</hi> might be the Ingredients of his Motto.</p>
+            <p>His Notions of Religion were true and ge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uine. He knew that the design of Christia<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity was not meerly to fill the minds of Men with Light and Knowledge, but with Divine <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ife and Love; That the Holy Jesus came <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot into the World only to acquaint it with great and venerable Mysteries, but to purifie <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd reform it. Accordingly it was his great endeavour to conform his heart and life to this Design. He greatly laboured to intro<g ref="char:EOLhyphen"/>duce into his mind a frame and temper be<g ref="char:EOLhyphen"/>coming the enjoyments of Heaven, and to witness the sincerity of his Faith and Hope, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y an answerable accuracy of life and con<g ref="char:EOLhyphen"/>versation. The sense he had of Divine things was great and affecting. He could not endure to handle Sacred Offices with a trif<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ling unconcerned Spirit. Hence all that have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een Witnesses to his discharging his incum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rancies, could not but remark, how grave and affectionat he was in all his Exhortati<g ref="char:EOLhyphen"/>ons, how devout and powerful in his Pray<g ref="char:EOLhyphen"/>ers,
+<pb n="22" facs="tcp:174993:19"/> and that he could not go about the mean<g ref="char:EOLunhyphen"/>est duties of Religion (if any of them wil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> allow of that Epithet) without a great and just concern of Soul. And what greater evi<g ref="char:EOLhyphen"/>dence of seriousness.</p>
+            <p>But as he was serious, so he was cheerful: These may very well consist together in a gracious heart. Religion is not intended to make men melancholly and sad, morose and moppish, but to better our humours, and ci<g ref="char:EOLhyphen"/>vilize our natures. Good Souls may allow themselves Mirths and Hilarities, providing they do not degenerat into irreligious Levi<g ref="char:EOLhyphen"/>ties; and with these innocent intertainments, after more important and weighty Discour<g ref="char:EOLhyphen"/>ses, he used to treat his dear Friends and Ac<g ref="char:EOLhyphen"/>quaintances, by which he discovered such a plausibleness of Nature, as made his Converse most acceptable unto all.</p>
+            <p>
+               <hi>Secondly,</hi> He attained to great measures of self-government. That which we get over our selves is the noblest piece of victory: While we are slaves to our passions, and un<g ref="char:EOLhyphen"/>der the tyranny of our natural inclinations, we deserve not the name of men. And this Conquest, our dear Friend, that was lately conversing with us, was very noticeable for; he would sometimes with a sweet inge<g ref="char:EOLhyphen"/>nuity
+<pb n="23" facs="tcp:174993:19"/> acknowledge, that Choller was a prime <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ngredient in his Constitution. But yet, I suppose, it was very seldom, if ever, that he was seen in an ungovernable transport and hurry of passion. Hence flowed that equa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity of humour, that loving and easie, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>niform temper, which without any remark<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ble alterations ever appeared in him.</p>
+            <p>
+               <hi>Thirdly,</hi> Another instance of real good<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ess that he was eminent in (and it is but a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>esult of the former) was a <hi>Christian dispas<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ionatness,</hi> a pious indifferency with reference <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o the things of the World: The Crosses of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t could not ruffle nor discompose the sereni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y of his mind, nor its prosperity blow up <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is fancy with conceit and vanity, or deeply <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ngross his affections. If there was any thing <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the World that he inclined to discover a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oncern for, it was his Friends, Relations, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cquaintances; and yet these, though he dear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> loved them, he could not flatter, or be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ond of them, His methods led him to vent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is respects more by Actions than Words.</p>
+            <p>
+               <hi>Fourthly,</hi> Notice we his admirable <hi>Love</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d <hi>Charity:</hi> A love unfeigned, and without <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uile. Of this it appeared, as if there had <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een a Spring in his Soul, which liberally <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>owed out unto all: It w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not confin'd and
+<pb n="24" facs="tcp:174993:20"/> narrow-hearted, it took the World in its embraces: It deeply pitied the miseries of Mankind, and longed much, and prayed often for the Reformation of all the Nations of the Earth, by an hearty subjection to the everlasting Gospel: But its special object<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were <hi>the Saints, the excellent ones of the earth<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in whom was all his delight.</hi> How dear a value did he put on all that carried the Image o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Heavenly Father! How overjoyed wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he to be in their fellowship! He looked o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> these as the most refreshful portions of hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time, that were imployed in converses wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Votaries of Jesus. No circumstances the could be in, how despicable and mean so<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ver, could render them unlovely and unac<g ref="char:EOLunhyphen"/>ceptable unto him. How charitable woul<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he construe their infirmities, and meekly e<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tenuat their regrated failziours! How gre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a pleasure did he take in distributing his sp<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ritual Charities! To instruct the ignorant,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> support the weak, to confirm the waverin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to reclaim the wandering, to resolve th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doubtful, and comfort the dejected Sou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were his delight and choise, and not a grie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ous task, which his circumstances meerly fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ced him to undergo. But this leads me,</p>
+            <p>
+               <hi>Secondly,</hi> To consider him in the dischar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="25" facs="tcp:174993:20"/> of his Ministerial incumbency; and this will considerably add to the loveliness of his Cha<g ref="char:EOLhyphen"/>racter. I shall, amongst the many particu<g ref="char:EOLhyphen"/>lars that might be insisted on, briefly touch these few only, of which all these who have been under his care, are living Wit<g ref="char:EOLhyphen"/>nesses.</p>
+            <p n="1">I. <hi>His Diligence.</hi> How constant and un<g ref="char:EOLhyphen"/>wearied was it! He knew that sloath in a Minister was as ominous and fatal, as sleep in a Sentinel: And therefore he was in sea<g ref="char:EOLhyphen"/>son, and out of season, at his duties; I do not remember that ever I heard him resent the frequent returns of these; but often<g ref="char:EOLhyphen"/>times would he regrate, that by reason of his bodily indispositions, he was not able to make these returns so frequent as he inclined they should be, considering the vastness of his Charge.</p>
+            <p n="2">II. <hi>His Fidelity.</hi> He delivered the Mes<g ref="char:EOLhyphen"/>sages of his Lord and Master impartially, and without respect of persons. I am sure he did neither court the smiles, nor fear the frowns of men. He considered the necessities of times and places, and accordingly dispensed the Word of Truth. He concealed nothing of the whole Counsel of God from his Peo<g ref="char:EOLhyphen"/>ple; and disdained to suit his Doctrine to the
+<pb n="26" facs="tcp:174993:21"/> humors of Men, or the interests of the Flesh.</p>
+            <p n="3">III. His Accuracy. He did not the <hi>work of the Lord negligently.</hi> The Discharges of his Duty were the performances of his whole Man: They were all <hi>ad amussim,</hi> accor<g ref="char:EOLhyphen"/>ding to Rule. All his appearances were man<g ref="char:EOLhyphen"/>naged with such a manly dexterity and quaint<g ref="char:EOLhyphen"/>ness, as filled the Hearers with just expecta<g ref="char:EOLhyphen"/>tions of great things, when they saw him in the Pulpit.</p>
+            <p n="4">IV. Prudence. He did not allow Passi<g ref="char:EOLhyphen"/>on, or privat Interests to Dictat his Ser<g ref="char:EOLhyphen"/>mons, or influence his Administrations. All his Ministerial Offices were gone about with a profound Discretion, and a due conside<g ref="char:EOLhyphen"/>ration of his Circumstances. He had great measures of the Wisdom of the Serpent, but sweetly attempered with proportionable Do<g ref="char:EOLhyphen"/>zes of the meekness of the Dove: He, with the great Apostle, <hi>became all things to all men.</hi> How calmly would he comply with, and pi<g ref="char:EOLhyphen"/>ty the infirmities, and suit and accommo<g ref="char:EOLhyphen"/>dat himself to the humours and capacities of these he had to deal with, that he might with the greater success win them unto the paths of Righteousness; So that I am prone to be<g ref="char:EOLhyphen"/>lieve, none that knew him well, will think
+<pb n="27" facs="tcp:174993:21"/> it an undeserved Designation, to call him <hi>a wise Master-builder</hi> in the Spiritual House.</p>
+            <p n="5">V. <hi>Zeal.</hi> O! how near did the Interests of his Master touch him! How dear was the honour of God to him! If any thing would raise his passions to an excess, incroachments made upon that, would do it. He could not see his Lord dishonoured without a just resentment and indignation. From this mighty and lasting zeal, which burned in his breast, proceeded that great love which he had to the Souls of his people. He thought he could never do enough for their edificati<g ref="char:EOLhyphen"/>on and comfort. Of this his last, but most remarkable appearance in this place, is a ve<g ref="char:EOLhyphen"/>ry taking instance: For though he was o<g ref="char:EOLhyphen"/>verwhelmed with the Agonies of a racking distemper, though his weakness was such, that it was with great difficulty he could rise from his Bed, though his dear Relations im<g ref="char:EOLhyphen"/>portuned him with repeited intreaties to de<g ref="char:EOLhyphen"/>sist from an attempt, which might prove pre<g ref="char:EOLhyphen"/>judicial to him, though the storminess of the day might be temptation enough to a person in his circumstances to keep within Doors, yet nothing would divert him. He could not find it in his heart, he said, to disappoint his dear people, while he had any remain<g ref="char:EOLhyphen"/>ders
+<pb n="28" facs="tcp:174993:22"/> of strength; so willing was he to spend, and be spent for you all.</p>
+            <p n="6">VI. <hi>His loving Designs</hi> for these of this Con<g ref="char:EOLhyphen"/>gregation. How frequent and particular was he resolved to be in his Examinations; he had a great sense of the singular usefulness of these for the advancing of Knowledge and Piety among the People: And indeed his Me<g ref="char:EOLhyphen"/>thod and way of mannaging them could not choose but have a signal efficacie that way: He could not endure to slabber them over; he knew that slight and superficial glances at things, would not be sufficient to inform a rude and ignorant, and oftentimes a dull and incapable multitude: And therefore he endea<g ref="char:EOLhyphen"/>voured in his Examinations by methodical proceedings, by plain and pertinent enlarge<g ref="char:EOLhyphen"/>ments, to inculcat, and leave the dint and impression of the Divine Truths he Discours<g ref="char:EOLhyphen"/>ed of, on the Hearts of his People. When he had finished his first Circuit of Catechi<g ref="char:EOLhyphen"/>sing, he intended to resume that same labo<g ref="char:EOLhyphen"/>rious Task again; and thereby to prepare and dress the Souls of his People for that So<g ref="char:EOLhyphen"/>lemnity he was designing for them, I mean the holy Eucharist, which had been the in<g ref="char:EOLhyphen"/>tertainment of this Congregation, had it been
+<pb n="29" facs="tcp:174993:22"/> the Divine Pleasure to have lengthned his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ays for some few moneths.</p>
+            <p>But I shall not enlarge any more upon this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ubject, I thought it proper for many Rea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ons, to give this account of him; and that it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but just and true, I dare appeal to the in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>enuity of his acquaintance. And now is it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ny wonder the loss, or rather the Remov<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of so examplary a Christian, and so well <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ccomplished a Minister, should be passion<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tly lamented by all, and especially by these <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ho had (I need not scruple to say it) the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>appiness to be his Flock. The Shepherd <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> smitten, and the poor Sheep will be scat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ered for a while. He that was the Watch<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>an and Overseer of your Souls, is called <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>own from his Watching-Tower. He that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iligently Laboured among you, is now <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eaping the Fruits of his Labours. He hath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nished his Course, and now he possesses the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rown. He hath Fought the good Fight, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd now hath obtained the Rewards of his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ictory. He hath run out his Race, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot the Prize. He hath left among you the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vour of good Doctrine, and an unblam<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le Conversation. He hath sowen the Seed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mong you, which, I hope, will bring forth <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ruit when he is lying in the Grave.</p>
+            <pb n="30" facs="tcp:174993:23"/>
+            <p>But to draw this Exercise altogether to a close, pray consider here a startling instance of Mortality: Behold how great a change may a few days produce! Oh surprising al<g ref="char:EOLhyphen"/>teration! He that the preceeding Lords Day was Preaching from his Pulpit, is this day Preaching from his Grave, and speaks to you in the Language of my Text, <hi>All flesh is grass.</hi> And will not you take Instru<g ref="char:EOLhyphen"/>ction from him? You have learned, I hope, many good things of him in his Life, learn something from him in his Death too. This is the last Warning he is to give you, the last appearance he is to make among you: You shall never see one another again until the Great-day, when that <hi>which is now sowen in weakness, shall be raised in power.</hi> Con<g ref="char:EOLhyphen"/>sider then seriously, I intreat you, what this <hi>Voice,</hi> this doubled Voice, the Voice of Gods Word, and the Voice of his Providence, loudly proclaiming in your Ears, <hi>All flesh is grass,</hi> calls for at your hands. 'Tis but rea<g ref="char:EOLhyphen"/>sonable to hope, that it should have some in<g ref="char:EOLhyphen"/>fluence upon us all, and teach us many ex<g ref="char:EOLhyphen"/>cellent Lessons, such as these following, which I shall passingly mention, and shall shut up this Discourse with all.</p>
+            <pb n="31" facs="tcp:174993:23"/>
+            <p>
+               <hi>First,</hi> The consideration of this, that <hi>all flesh is grass,</hi> should give a check to our pride and vanity. Let not the strong glory in their strength, nor the fair ones in their beauty; for how soon may beauty degenerat into de<g ref="char:EOLhyphen"/>formity, and strength into weakness. <hi>The grass withereth, the flower fadeth.</hi> These are Emblames the Sacred Oracles make use of, to represent our Mortal part by, that part which we are most inclined to be proud of, and put greatest respect upon. Thou that boastest of a stately, vigorous and well proportioned Body, know that ere long, the glory there<g ref="char:EOLhyphen"/>of will put on darkness; It's flowrishes will wither; the lovely mixtures of colours in thy Face will be changed into paleness; and the taking Symetrie of its parts become in<g ref="char:EOLhyphen"/>discernable, by reason of the Furrows of Age.</p>
+            <p>When you are tempted to admire your selves, and to fall in love with the reflexes of your own comliness, pray do but take a view of your selves in your own fancies, and think what your Circumstances will be, when you are cloathed with the dishonours of the Grave, and the deformities of Corruption; I am perswaded of it, that if we did make Death present unto us, and dress it in all its
+<pb n="32" facs="tcp:174993:24"/> proper and Ghostly appearances; if we did seriously consider, what the most elegant and stately Body will be, when it hath dwelt a while in the House of Rottenness, and be<g ref="char:EOLhyphen"/>come the Inheritance of Worms, it would greatly abate the heights of our pride and va<g ref="char:EOLhyphen"/>nity: But</p>
+            <p>
+               <hi>Secondly,</hi> The consideration of this, that <hi>All flesh is grass,</hi> that is, weak and frail, should oblige us to <hi>dayly Gratitude</hi> to that God, whose gracious Providence and tender Care preserves and upholds such brittle and infirm things as we are. Could you but see with your Eyes these small and tender Vessels, on the soundness and good order of which our animal Life depends, ye would be amazed to think that you have lived so long: you would wonder, that some violent motion or sudden fall hath not long since crushed to pieces, or at least discomposed the order of these weaker, but more noble and necessary parts of the Body. Sure it is the Watchful Eye, and mighty Power of Heaven, that hath sustained us hitherto, and protected us from these innumerable hazards, to which we are infinitly exposed: He gives his An<g ref="char:EOLhyphen"/>gels charge over us; and when we are en<g ref="char:EOLhyphen"/>compassed with dangers that we know not of,
+<pb n="33" facs="tcp:174993:24"/> they take us up in their Arms, although we are not aware of it. O let none of us be e<g ref="char:EOLhyphen"/>ver unmindful of this uninterrupted care of the merciful God: Let us resent it every day, by the devotest and most liberal expressions of thankfulness, that we are continued in life, notwithstanding our many weaknesses, and the multitudes of inconveniencies and hazards that surround us.</p>
+            <p>
+               <hi>Thirdly,</hi> Is <hi>all flesh grass?</hi> Then how un<g ref="char:EOLhyphen"/>reasonable and unbecoming is it, to be over<g ref="char:EOLhyphen"/>much taken up in minding the Flesh: All that we can do will not secure it from cor<g ref="char:EOLhyphen"/>ruption; it will become the portion of Worms, though we pamper it never so much, though we cloath it in Silk and Purple, and treat it with the most delicious accommodations, yet its strength will decay as the Grass, and its goodliness fade as the flower of the field. Oh! Then let us not be excessively concerned a<g ref="char:EOLhyphen"/>bout that part of us, which we must shortly put off. This is that the Apostle exhorts un<g ref="char:EOLhyphen"/>to, <hi>Rom.</hi> 13.14. <hi>Make no provision for the flesh to fulfil its lusts.</hi> How unmanly is it to con<g ref="char:EOLhyphen"/>fine our cares and endeavours chiefly, much more, altogether to the interests of the Bo<g ref="char:EOLhyphen"/>dy. It is our duty indeed to be moderatly careful of it, and to preserve its health by
+<pb n="34" facs="tcp:174993:25"/> all honest and prudent methods; But to be fond of it, and to gratifie all its wild and extravagant cravings, is deliberatly to rank ourselves among the Beasts that perish. We must value our Bodies, not so much for their own, as for the Works sake which we are to do in them. We must treat them as Taber<g ref="char:EOLhyphen"/>nacles, out of which we must shortly remove, and not as Mansions in which we hope to live for ever.</p>
+            <p>
+               <hi>Fourthly,</hi> Another influence this con<g ref="char:EOLhyphen"/>sideration, that <hi>all flesh is grass,</hi> that is, of a corruptible decaying nature, should have on us, is this; It should oblige us frequent<g ref="char:EOLhyphen"/>ly to cast our Eyes on our immortal, unde<g ref="char:EOLhyphen"/>caying part, and employ our chiefest care in adorning and cultivating of that, we should consider that though these brittle Tabernacles of ours be muldering away by degrees, yet there is something within us that is steddy and permanent, something that will survive the ruins of our Bodies. The Body, we should think, is but an Earthly House, which lodges a Heavenly Inhabitant, a frail Cabi<g ref="char:EOLhyphen"/>net wherein is contained a Jewel more valu<g ref="char:EOLhyphen"/>able than a World. 'Tis on this better part of ours, that our greatest care should be em<g ref="char:EOLhyphen"/>ployed. What we deny the Body, we should
+<pb n="35" facs="tcp:174993:25"/> bestow on this. We should consider what are the proper ornaments of our Spirits, what will most fitly qualifie them for that blessed state they were designed for, and make it the matter of our earnest study to get them put in these Divine and becoming Dresses. We should not give our selves rest, until we are sensible that we are made parta<g ref="char:EOLhyphen"/>kers of a Divine Nature, until by the power and mighty Assistances of the Grace of Christ, we are refined and purified from all unbeco<g ref="char:EOLhyphen"/>ming degrees of Earthliness and Sensuality, until we find that our Lusts are Mortified, and our Passions are made Tame and Govern<g ref="char:EOLhyphen"/>able, that the Graces of the Spirit abound in us, and are duly exercised, and so a Dis<g ref="char:EOLhyphen"/>position and Temper suiting Heavenly en<g ref="char:EOLhyphen"/>joyments introduced into our Souls.</p>
+            <p>
+               <hi>Fifthly,</hi> This consideration, that <hi>all flesh is grass,</hi> should put us frequently in mind of our approaching Death and Dissolution. Do we not see the Grass losing its sap and green<g ref="char:EOLhyphen"/>ness, and the flower that did lately please our Eye, declining to softness, and in end bow<g ref="char:EOLhyphen"/>ing its head, and breaking its stalk, and so as it were giving up the Ghost; and at last, hav<g ref="char:EOLhyphen"/>ing lost all its Life and Beauty, it hath a Grave
+<pb n="36" facs="tcp:174993:26"/> assigned to it among the useless and unlovely Weeds? And can we look on these, and not remember, that they are Emblames of what all of us shall ere long be? How can we be unmindful of that, whereof we cannot but discern some beginnings in our selves eve<g ref="char:EOLhyphen"/>ry day? How can we forget the Grave, when we carry so much of it about us? What are our languishings and faintings, our Di<g ref="char:EOLhyphen"/>seases and Weaknesses, but degrees of Death? What are our Failings and Decayes, but some Tastes of the Grave? But in the</p>
+            <p>
+               <hi>Sixth</hi> and last place, as the Conclusion and upshot of all; Let us learn Moreover from the consideration I have now so often mentioned, to be making <hi>dayly preparations for death.</hi> Let us be laying up in store for that Great Day of Expence. Our Death is certain and inevitable. The Divine Voice that Proclaims in our Ears, that <hi>all flesh is grass,</hi> assures us of this: For as certain as the Grass shall wither and be cut down; so certain it is that we, who are as the Grass, shall die and return to our Dust. Now to die well is not easie; 'tis an excellent Art, but most difficult; a great design of our whole life should be to learn it, and to be<g ref="char:EOLhyphen"/>come
+<pb n="37" facs="tcp:174993:26"/> expert in it. What <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> formed! How many Grac<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cised by these that would die we<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fervent Prayers, what dependencies o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith, and breathings of Heavenly Love, what pantings of holy Desires, what submis<g ref="char:EOLhyphen"/>sions of Patience, what applications of Pro<g ref="char:EOLhyphen"/>mises, and Acts of Resignation and Self<g ref="char:EOLhyphen"/>surrender are necessary unto these, who are to enter the Lists with Death, and would gain a comfortable Victory over the dread<g ref="char:EOLhyphen"/>ful Adversary! Let us be sure then, while the opportunities of Life and Health are be<g ref="char:EOLhyphen"/>fore us, while our Faculties are intire and vigorous, while we can Read, Meditat and Pray, Let us be sure, I say, to set about the learning of this excellent Skill; with care and diligence, and not delay it until sickness and old age seize on us, or till we are in the Jaws of Death, when common sense tells us, it will be very unreasonable to begin the study of that, which a whole lifetime was little enough to acquaint us with the practice of.</p>
+            <p>Though it would not be unproper here to afford you some particular Assistances or Directions, how to behave in your Prepa<g ref="char:EOLhyphen"/>rations
+<pb n="38" facs="tcp:174993:27"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>n, yet since I am afraid that <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y longer would be too great an<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ng upon your patience; All I shall do on this Head, is to recommend you to the serious practice of these excellent Duties, which your late Pastor delivered you, from <hi>Eph.</hi> 3.17. <hi>That Christ may dwell in your hearts by faith;</hi> which was the Heavenly Subject, wherewith he did shut up and close his Labours among you: And the dy<g ref="char:EOLhyphen"/>ing words, I think, of so dear and faithful a Friend should never be forgotten, especi<g ref="char:EOLhyphen"/>ally when they can be of so advantagious a tendency, as to fit and prepare you for fight<g ref="char:EOLhyphen"/>ing that Battel, which all of you must resolve to face ere long. For <hi>when Christ dwells in our hearts, when he is formed in us,</hi> when we have got a vital Image of him in our Souls, prompting us to conform to him, to imitat him in our Lives and Conversations; when we are beautified with Meekness, Humility, Self-denyal, contempt of the World, and all the other imitable Graces that were emi<g ref="char:EOLhyphen"/>nent in him, and so are become living Ima<g ref="char:EOLhyphen"/>ges of him; In a word, when the Gospel is not meerly received into our heads, but incorporated into our Spirits, and powerfully
+<pb n="39" facs="tcp:174993:27"/> influencing our Practices, then, and never till then are we sufficiently prepared to die. Now to the Blessed God, who can to the voice of his Word and Providence, add that of his Holy Spirit, and effectually Teach us these Heavenly Lessons, we desire to give Praise, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174993:28"/>
+            <pb facs="tcp:174993:28"/>
+            <pb facs="tcp:174993:29"/>
+            <pb facs="tcp:174993:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
